@@ -8,4 +8,4 @@
 
 
 
-#### Para aprimorar meus conhecimentos em análise e ciência de dados estou desenvolvendo projetos e utilizando este perfil como portifólio.
+#### Para aprimorar meus conhecimentos em análise e ciência de dados estou desenvolvendo projetos e utilizando este perfil como portfólio.
