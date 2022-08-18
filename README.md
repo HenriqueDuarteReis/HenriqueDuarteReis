@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique!! 🖐
+## Olá, eu sou o Henrique 🖐
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-duarte-reis-777061193/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9nTjkTNOhnQxHj57tj45lw/videos)
